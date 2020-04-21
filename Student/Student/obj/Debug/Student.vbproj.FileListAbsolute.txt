@@ -1,0 +1,13 @@
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\bin\Debug\Student.exe.config
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\bin\Debug\Student.exe
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\bin\Debug\Student.pdb
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\bin\Debug\Student.xml
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.vbprojAssemblyReference.cache
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.add_student.resources
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.Form1.resources
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.Resources.resources
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.vbproj.GenerateResource.cache
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.vbproj.CoreCompileInputs.cache
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.exe
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.xml
+C:\Users\Kamar\Desktop\Student Management System\Student\Student\obj\Debug\Student.pdb
